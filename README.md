@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanflower1903&show_icons=true&theme=onedark)<br>
+
+
 
 <!--
 **ethanflower1903/ethanflower1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
