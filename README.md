@@ -21,3 +21,9 @@
 
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/17020883/ethan)
 
+
+
+
+<h1 align="center">Hi 👋, I'm ETHAN FLOWER</h1>
+<h3 align="center">I am a DEVOPS ENGINEER</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
