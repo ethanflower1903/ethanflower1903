@@ -1,7 +1,7 @@
  ### Hi there 👋
 # Ethan Flower - DevOps Engineer
 
-![DevOps Engineer](assets/background.png)
+![DevOps Engineer]
 
 Passionate about automation, security, and cloud infrastructure.
 
