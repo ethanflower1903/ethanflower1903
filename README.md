@@ -1,5 +1,5 @@
  ### Hi there 👋
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
+<img src="https://miro.medium.com/v2/resize:fit:541/1*IQ15Uer9csbo3Qc7uIFRgQ.jpeg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 541px; height: 188px; margin: 0px; width: 351px;" alt="Top DevSecOps Tools for 2023: Open Source Solutions for Enterprises | by  Ranjan Singh CyberSecurity | Medium" jsname="kn3ccd" aria-hidden="false">
 
 <-- 🔭 I’m currently working on ....
 - 🌱 I’m currently learning ...
