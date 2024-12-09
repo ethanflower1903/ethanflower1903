@@ -1,6 +1,7 @@
  ### Hi there 👋
 # Ethan Flower - DevOps Engineer
-<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>DALL·E 2024-12-09 13.32.08 - A modern and sleek GitHub profile background for a DevOps engineer named Ethan Flower. The design features a clean blue and gray color scheme with vis.webp (1024×1024)</title></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/rc973/Downloads/DALL%C2%B7E%202024-12-09%2013.32.08%20-%20A%20modern%20and%20sleek%20GitHub%20profile%20background%20for%20a%20DevOps%20engineer%20named%20Ethan%20Flower.%20The%20design%20features%20a%20clean%20blue%20and%20gray%20color%20scheme%20with%20vis.webp" width="731" height="731"></body></html>
+![image](https://github.com/user-attachments/assets/269c8fc3-3368-44cd-a2e8-2beb5524d5b3)
+
 
 Passionate about automation, security, and cloud infrastructure.
 
