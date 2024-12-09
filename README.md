@@ -1,7 +1,7 @@
  ### Hi there 👋
 # Ethan Flower - DevOps Engineer
 
-![DevOps Engineer]
+<img src="https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg" class="x-contain-img" data-src="https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg" data-srcset="https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg 2232w, https://shalb.com/wp-content/uploads/2019/11/Devops1-300x196.jpeg 300w, https://shalb.com/wp-content/uploads/2019/11/Devops1-1024x669.jpeg 1024w, https://shalb.com/wp-content/uploads/2019/11/Devops1-768x502.jpeg 768w, https://shalb.com/wp-content/uploads/2019/11/Devops1-1536x1003.jpeg 1536w, https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg 2048w" alt="What is DevOps and where is it applied — SHALB — Image" title="What is DevOps and where is it applied — Image" srcset="https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg 2232w, https://shalb.com/wp-content/uploads/2019/11/Devops1-300x196.jpeg 300w, https://shalb.com/wp-content/uploads/2019/11/Devops1-1024x669.jpeg 1024w, https://shalb.com/wp-content/uploads/2019/11/Devops1-768x502.jpeg 768w, https://shalb.com/wp-content/uploads/2019/11/Devops1-1536x1003.jpeg 1536w, https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg 2048w">
 
 Passionate about automation, security, and cloud infrastructure.
 
