@@ -1,5 +1,10 @@
  ### Hi there 👋
-file:///C:/Users/rc973/Downloads/DALL%C2%B7E%202024-12-09%2013.32.08%20-%20A%20modern%20and%20sleek%20GitHub%20profile%20background%20for%20a%20DevOps%20engineer%20named%20Ethan%20Flower.%20The%20design%20features%20a%20clean%20blue%20and%20gray%20color%20scheme%20with%20vis.webp
+# Ethan Flower - DevOps Engineer
+
+![DevOps Engineer](assets/background.png)
+
+Passionate about automation, security, and cloud infrastructure.
+
 
 <-- 🔭 I’m currently working on ....
 - 🌱 I’m currently learning ...
