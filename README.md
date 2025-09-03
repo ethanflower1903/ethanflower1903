@@ -1,6 +1,7 @@
  ### Hi there 👋
 # Ethan Flower - DevOps Engineer..
-![image](https://github.com/user-attachments/assets/269c8fc3-3368-44cd-a2e8-2beb5524d5b3)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ondocqondocqondo" src="https://github.com/user-attachments/assets/e75ede4e-af22-4a50-bb0d-ef0173f96a83" />
+
 
 
 Passionate about automation, security, and cloud infrastructure.
