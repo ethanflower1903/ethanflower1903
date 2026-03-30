@@ -16,7 +16,7 @@ Passionate about automation, security, and cloud infrastructure.
 - ⚡ Fun fact: ...-->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanflower1903&show_icons=true&theme=onedark)<br>
+![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=ethanflower1903&show_icons=true&theme=onedark)<br>
 
 
 
